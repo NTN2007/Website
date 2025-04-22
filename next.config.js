@@ -1,0 +1,1 @@
+// content of next.config.js
